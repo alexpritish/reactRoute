@@ -1,0 +1,99 @@
+{
+    "Topics":[
+        {
+        "topic_id":"t1",
+        "topic_name":"Flower",
+        "sub_topic":[{
+            "sub_topic_id":"t11",
+            "sub_name":"Rose",
+            "sub_image1":"../../../Images/Flower/rose/Small_Red_Rose.jpg",
+            "sub_image2":"../../../Images/Flower/rose/r.jpg",
+            "sub_description":"A rose is a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it bears. There are over three hundred species and tens of thousands of cultivars."
+        },
+        {
+            "sub_topic_id":"t12",
+            "sub_name":"Jasmine",
+            "sub_image1":"../../../Images/Flower/Jasmine/Common_Jasmine.jpg",
+            "sub_image2":"../../../Images/Flower/Jasmine/Jsambac.jpg",
+            "sub_description":"Jasmine is a genus of shrubs and vines in the olive family . It contains around 200 species native to tropical and warm temperate regions of Eurasia and Oceania."
+        },
+        {
+            "sub_topic_id":"t13",
+            "sub_name":"Lily",
+            "sub_image1":"../../../Images/Flower/Lili/is.jpg",
+            "sub_image2":"../../../Images/Flower/Lili/lily.jpg",
+            "sub_description":"Lilium is a genus of herbaceous flowering plants growing from bulbs, all with large prominent flowers. They are the true lilies"
+        }
+    ]
+    },
+    {
+        "topic_id":"t2",
+        "topic_name":"Fruits",
+        "sub_topic":[{
+            "sub_topic_id":"t21",
+            "sub_name":"Mango",
+            "sub_image1":"../../../Images/Fruits/Mango/m.jpg",
+            "sub_image2":"../../../Images/Fruits/Mango/d.jpg",
+            "sub_description":"A mango is an edible stone fruit produced by the tropical tree Mangifera indica which is believed to have originated from the region between northwestern Myanmar, Bangladesh, and northeastern India."
+        },
+        {
+            "sub_topic_id":"t22",
+            "sub_name":"Apple",
+            "sub_image1":"../../../Images/Fruits/Apple/e.jpg",
+            "sub_image2":"../../../Images/Fruits/Apple/d.jpg",
+            "sub_description":"An apple is an edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. "
+        }]
+    },
+    {
+        "topic_id":"t3",
+        "topic_name":"Birds",
+        "sub_topic":[{
+            "sub_topic_id":"t31",
+            "sub_name":"Paroot",
+            "sub_image1":"../../../Images/Birds/Paroot/Macao.jpg",
+            "sub_image2":"../../../Images/Birds/Paroot/solo.jpg",
+            "sub_description":"Parrots, also known as psittacines are birds of the roughly 398 species[3] in 92 genera comprising the order Psittaciformes"
+        },
+        {
+            "sub_topic_id":"t32",
+            "sub_name":"Peacock",
+            "sub_image1":"../../../Images/Birds/Peacock/Peacock.jpg",
+            "sub_image2":"../../../Images/Birds/Peacock/Peacock2.jpg",
+            "sub_description":"Peacock is a common name for three bird species in the genera Pavo and Afropavo within the subtribe Pavonina of the family Phasianidae, the pheasants and their allies."
+        }]
+    },
+    {
+        "topic_id":"t4",
+        "topic_name":"Animals",
+        "sub_topic":[{
+            "sub_topic_id":"t41",
+            "sub_name":"Lion",
+            "sub_image1":"../../../Images/Animals/Lion/w.jpg",
+            "sub_image2":"../../../Images/Animals/Lion/i.jpg",
+            "sub_description":"The lion (Panthera leo) is a large cat of the genus Panthera native to Africa and India. It has a muscular, deep-chested body, short, rounded head, round ears, and a hairy tuft at the end of its tail. It is sexually dimorphic; adult male lions are larger than females and have a prominent mane"
+        },
+        {
+            "sub_topic_id":"t42",
+            "sub_name":"Tiger",
+            "sub_image1":"../../../Images/Animals/Tiger/w.jpg",
+            "sub_image2":"../../../Images/Animals/Tiger/f.jpg",
+            "sub_description":"The tiger (Panthera tigris) is the largest living cat species and a member of the genus Panthera. It is most recognisable for its dark vertical stripes on orange fur with a white underside. It is an apex predator, primarily preying on ungulates such as deer and wild boar."
+        },
+        {
+            "sub_topic_id":"t43",
+            "sub_name":"Dog",
+            "sub_image1":"../../../Images/Animals/Dog/d.jpg",
+            "sub_image2":"../../../Images/Animals/Dog/do.jpg",
+            "sub_description":"The dog or domestic dog, (Canis familiaris[4][5] or Canis lupus familiaris[5]) is a domesticated descendant of the wolf which is characterized by an upturning tail."
+        },
+        {
+            "sub_topic_id":"t44",
+            "sub_name":"Elephant",
+            "sub_image1":"../../../Images/Animals/Elephant/download.jpg",
+            "sub_image2":"../../../Images/Animals/Elephant/1.jpg",
+            "sub_description":"Elephants are the largest existing land animals. Three living species are currently recognised: the African bush elephant, the African forest elephant, and the Asian elephant."
+        }]
+        
+    }
+]
+}
